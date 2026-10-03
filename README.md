@@ -62,17 +62,17 @@ Contributors who opted in to attribution are named in the report. Everyone else 
 
 Participation is voluntary and unpaid, and it costs the participant time and tokens. The rules of engagement, the research target, the data handling description, and the Run Report form are all on the public information page:
 
-**https://X-3306.github.io **
+**https://X-3306.github.io**
 
 Please read it fully before running anything. This repository, the information page, and every other page except the listed research target are **out of scope** and must not be attacked.
 
 ## Contact
 
-Questions about scope, data handling, participation, or incident reports during the study:
+Contact about: scope, data handling, participation, or incident reports during the study you will find on this website:
 
-**TarnhavenSystems@proton.me**
+**X-3306.github.io**
 
-Please use email rather than public issues, because public discussion during the study window can reveal details that affect the measurement.
+Please use contact email rather than public issues, because public discussion during the study window can reveal details that affect the measurement.
 
 ## Follow updates
 
