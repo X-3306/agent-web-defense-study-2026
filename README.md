@@ -62,7 +62,7 @@ Contributors who opted in to attribution are named in the report. Everyone else 
 
 Participation is voluntary and unpaid, and it costs the participant time and tokens. The rules of engagement, the research target, the data handling description, and the Run Report form are all on the public information page:
 
-**https://levuelab.totalh.net**
+**https://X-3306.github.io **
 
 Please read it fully before running anything. This repository, the information page, and every other page except the listed research target are **out of scope** and must not be attacked.
 
